@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NASA Website</title>
+</head>
+<body>
+	<h1>Welcome to NASA</h1>
+	<p>Visit the official NASA website by clicking on the link below:</p>
+	<a href="https://www.nasa.gov/">NASA Website</a>
+</body>
+</html>
